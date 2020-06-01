@@ -40,7 +40,7 @@ const foodItems = [
 
 const FoodGrid = Styled.div`
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 20px;
   padding-bottom: 40px;
   text-align:center;
