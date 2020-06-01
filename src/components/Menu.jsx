@@ -4,7 +4,7 @@ import { FoodGrid, Food, foodItems } from "./FoodGrid";
 
 const MenuStyled = Styled.div`
   height: 1000px;
-  margin: 0px 400px 50px 20px;
+  margin: 0px 400px 50px 300px;
 `;
 
 function Menu() {
